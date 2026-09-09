@@ -1,0 +1,13 @@
+{
+  "name": "genpark-welzl-minimum-bounding-sphere-solver-skill",
+  "version": "1.0.0",
+  "description": "Welzl's randomized linear-time algorithm computing the unique exact Minimum Enclosing Ball (MEB) / Smallest Enclosing Disk in 2D and 3D.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "welzl-algorithm",
+    "minimum-enclosing-ball",
+    "bounding-sphere",
+    "computational-geometry"
+  ]
+}
